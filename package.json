@@ -1,0 +1,16 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "nodejs api crud",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.mjs"
+  },
+  "author": "Mouhamed SONKO",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
